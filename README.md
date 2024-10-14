@@ -1,4 +1,4 @@
-<h1>Exercicío 1</h1>
+<h3>Exercicío 1</h1>
 
 <h2>Calculadora de Soma Sequencial</h2>
 <h3>Descrição:</h3>
@@ -63,10 +63,15 @@ Este script Python tem como objetivo inverter os caracteres de uma string fornec
 <h3>Explicação:</h3>
 <b>Função inverter_string:</b>
 - Converte a string em uma lista para facilitar a manipulação dos caracteres.
+<br>
 - Utiliza dois índices, inicio e fim, para percorrer a lista de forma bidirecional.
+<br>
 - Troca os caracteres nas posições inicio e fim em cada iteração do loop.
+<br>
 - Junta os caracteres da lista modificada para formar a string invertida.
 <b>Parte principal:</b>
 -Define uma string de exemplo.
+<br>
 -Chama a função inverter_string para inverter a string.
+<br>
 -Imprime a string original e a invertida.
