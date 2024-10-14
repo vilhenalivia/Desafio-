@@ -69,6 +69,7 @@ Este script Python tem como objetivo inverter os caracteres de uma string fornec
 - Troca os caracteres nas posições inicio e fim em cada iteração do loop.
 <br>
 - Junta os caracteres da lista modificada para formar a string invertida.
+<br>
 <b>Parte principal:</b>
 -Define uma string de exemplo.
 <br>
