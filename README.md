@@ -62,6 +62,7 @@ Este script Python tem como objetivo inverter os caracteres de uma string fornec
 <b>Swap:</b> A troca de elementos entre inicio e fim é realizada de forma concisa utilizando o operador de atribuição múltipla.
 <h3>Explicação:</h3>
 <b>Função inverter_string:</b>
+<br>
 - Converte a string em uma lista para facilitar a manipulação dos caracteres.
 <br>
 - Utiliza dois índices, inicio e fim, para percorrer a lista de forma bidirecional.
@@ -71,6 +72,7 @@ Este script Python tem como objetivo inverter os caracteres de uma string fornec
 - Junta os caracteres da lista modificada para formar a string invertida.
 <br>
 <b>Parte principal:</b>
+<br>
 -Define uma string de exemplo.
 <br>
 -Chama a função inverter_string para inverter a string.
